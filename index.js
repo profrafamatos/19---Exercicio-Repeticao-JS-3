@@ -8,7 +8,7 @@
     }while(condição)
  */
 
-function contaAteN() {
+function contaAteN(n) {
   /**** Escreva o código abaixo 👇******/
 
   
