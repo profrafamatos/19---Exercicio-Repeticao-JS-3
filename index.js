@@ -14,3 +14,5 @@ function contaAteN() {
   
   /**** Escreva o código acima ☝️******/
 }
+
+module.exports = contaAteN
