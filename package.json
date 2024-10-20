@@ -1,0 +1,15 @@
+{
+  "name": "19---exercicio-repeticao-js-3",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao exercício sobre **Estruturas de Repetição** com JavaScript! 🎉 Siga as instruções abaixo para completar o desafio e testar suas habilidades. 💪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
